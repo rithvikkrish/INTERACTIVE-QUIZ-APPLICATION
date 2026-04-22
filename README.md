@@ -20,7 +20,6 @@ This is a complete quiz application that combines an intuitive user interface wi
 - ✅ Comprehensive analytics and reporting
 - ✅ Mobile-responsive layout
 
-![Alt Text](C:\Users\user\Pictures\Screenshots)
 ---
 
 **Created**: April 2026  
